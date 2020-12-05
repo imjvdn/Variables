@@ -15,7 +15,7 @@ namespace Variables
 
             Console.WriteLine("There once was a man named " + characterName);
             Console.WriteLine("He was " + characterAge + " years old");
-            Console.WriteLine(characterName + " really liked his name but he didnt like being " + characterAge + ".");
+            Console.WriteLine(characterName + " really liked his name but he did not like being " + characterAge + ".");
 
             Console.ReadLine();
         }
