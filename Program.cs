@@ -10,7 +10,7 @@ namespace Variables
     {
         static void Main(string[] args)
         {
-            string characterName = "John";
+            string characterName = "James";
             int characterAge = 35;
 
             Console.WriteLine("There once was a man named " + characterName);
